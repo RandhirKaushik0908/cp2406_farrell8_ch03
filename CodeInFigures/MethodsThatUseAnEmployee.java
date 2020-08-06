@@ -1,7 +1,7 @@
 import java.util.Scanner;
 class MethodsThatUseAnEmployee
 {
-   public static void main (String args[])
+   public static void main (String[] args)
    {
      Employee myEmployee;
      myEmployee = getEmployeeData();
